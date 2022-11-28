@@ -34,6 +34,7 @@ The sample is named following input: ```sub + "_tensor.nii.gz"```;  gt: ```sub +
 ## Basic Usages
 
 **Basic Flags**
+
 -```--dataroot```: path to HCP dataset if used. 
 -```--checkpoints_dir```: path to model checkpoints. 
 -```--output_dir```: path to predicted outputs.
