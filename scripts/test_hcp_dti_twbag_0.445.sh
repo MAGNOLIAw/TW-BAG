@@ -1,6 +1,5 @@
 set -ex
 python3 /home/xinyi/TW-BAG/test_hcp_dti.py \
---dataroot /home/data/HCP_DTI \
 --checkpoints_dir /home/xinyi/checkpoints3 \
 --output_dir /home/xinyi/predictions_HCP_DTI \
 --name HCP_DTI_twbag_zscore_0445 \
